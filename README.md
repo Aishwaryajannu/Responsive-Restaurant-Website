@@ -88,21 +88,6 @@ The JavaScript logic enhances user experience with features such as:
 
 ---
 
-## File Structure
-The project is organized as follows:
-
-```
-project-directory/
-|-- index.html
-|-- styles/
-|   |-- style.css
-|-- scripts/
-|   |-- script.js
-|-- images/
-|   |-- [food images, testimonials, etc.]
-```
-
----
 
 ## Key Functionalities
 
